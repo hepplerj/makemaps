@@ -27,3 +27,9 @@ A collection of useful resources for making maps. 🗺
 [strava-geojson](https://github.com/tmcw/strava-geojson): Export Strava data to GeoJSON.
 
 [Historical US cities populations](https://github.com/cestastanford/historical-us-city-populations): Historical US city populations between 1790 and 2010.
+
+## historic maps / avoiding rubbersheeting / maps that don't easily map onto lat/long
+
+[Recogito](https://recogito.pelagios.org/)
+
+[Leaflet adding points on click](http://bl.ocks.org/hepplerj/2f405df580f66923091ad604ccf2fffc)
