@@ -33,3 +33,5 @@ A collection of useful resources for making maps. 🗺
 [Recogito](https://recogito.pelagios.org/)
 
 [Leaflet adding points on click](http://bl.ocks.org/hepplerj/2f405df580f66923091ad604ccf2fffc)
+
+[Antirubbersheeter](https://antirubbersheeter.moacir.com/): Geocode your data using a Leaflet-friendly basemap created from your non-Mercator / fictional / etc. map.
