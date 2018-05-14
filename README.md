@@ -18,6 +18,8 @@ A collection of useful resources for making maps. 🗺
 
 [turf.js](http://turfjs.org/): Advanced geospatial analysis for browsers.
 
+[Mapmakers Cheatsheet](https://github.com/tmcw/mapmakers-cheatsheet): Make maps with fewer tries.
+
 ## data
 
 [natural earth](http://www.naturalearthdata.com/): Country, province, and geographical data.
