@@ -20,6 +20,8 @@ A collection of useful resources for making maps. 🗺
 
 [Mapmakers Cheatsheet](https://github.com/tmcw/mapmakers-cheatsheet): Make maps with fewer tries.
 
+[kepler.gl](https://uber.github.io/kepler.gl/#/demo): Geospatial analysis for large-scale datasets.
+
 ## data
 
 [natural earth](http://www.naturalearthdata.com/): Country, province, and geographical data.
