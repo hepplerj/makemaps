@@ -22,6 +22,8 @@ A collection of useful resources for making maps. 🗺
 
 [kepler.gl](https://uber.github.io/kepler.gl/#/demo): Geospatial analysis for large-scale datasets.
 
+[Geolocator](https://jasonheppler.org/projects/geolocate/): A small web utility to find your current latitude/longitude.
+
 ## visualization
 
 [palladio](http://hdlab.stanford.edu/palladio/): visualize complex historical data
