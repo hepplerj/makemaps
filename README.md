@@ -22,6 +22,20 @@ A collection of useful resources for making maps. 🗺
 
 [kepler.gl](https://uber.github.io/kepler.gl/#/demo): Geospatial analysis for large-scale datasets.
 
+## visualization
+
+[palladio](http://hdlab.stanford.edu/palladio/): visualize complex historical data
+
+[carto](https://carto.com): spatial analysis for location data 
+
+[storymap](https://storymaps.arcgis.com): create spatial narratives 
+
+[ArcGIS](https://www.arcgis.com/):  create your own maps from scratch 
+
+[neatline](https://neatline.org): an Omeka add-on for telling spatial stories
+
+[google maps](https://www.google.com/maps/d/): easily create maps with points and polygons
+
 ## data
 
 [natural earth](http://www.naturalearthdata.com/): Country, province, and geographical data.
